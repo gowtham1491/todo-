@@ -8,6 +8,6 @@ This is a sample todo list project build by using html,css,javascript,react js
 # Functionality
 This application should support the following functionality:
     * Users should be able to enter a task and add it to the list.
-    * Users should be able to mark a task as completed or uncompleted by checking/unchecking a checkbox.
+    * Users should be able to mark a task as completed or uncompleted by pointer/unchecking a pointer.
     * Users should be able to delete a task from the list.
 
